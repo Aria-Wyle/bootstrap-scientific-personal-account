@@ -1,2 +1,6 @@
-# bootstrap-scientific-personal-account
+# Научный личный кабинет - сайт на Bootstrap 4
  самостоятельная работа (д/з stepik)
+ 
+ ## Технологии в проекте
+ - HTML
+ - Bootstrap 4
